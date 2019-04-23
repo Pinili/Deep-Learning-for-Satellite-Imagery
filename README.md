@@ -7,6 +7,12 @@ All coding dependencies and datasets in this project is published under UWSpace 
 
 ![Zoning Code Sample](https://github.com/Pinili/Deep-Learning-for-Satellite-Imagery/blob/master/1-classes.png)
 
+Special thanks to the following:
+- Jeremy Howard for the <i>fastai</i> library : https://github.com/fastai/fastai
+- Patrick Helber, Benjamin Bischke, Andreas Dengel, and Damian Borth for the EuroSAT dataset : https://github.com/phelber/EuroSAT
+This project would not be possible without the support of these projects!
+
+
 | Included in this repository                   |
 | --------------------------------------------- |
 | IDL script to process Sentinel-2 datasets     |
